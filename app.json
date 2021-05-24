@@ -1,0 +1,27 @@
+{
+  "id": "c8f8c3dd-1f46-42ff-8c08-9fd07e1501ee",
+  "name": "Error Log",
+  "publisher": "Volodymyr Dvernytskyi",
+  "version": "1.0.0.0",
+  "brief": "Error Log",
+  "description": "Error Log",
+  "privacyStatement": "https://vld-nav.com/",
+  "EULA": "https://vld-nav.com/",
+  "help": "https://vld-nav.com/",
+  "url": "https://vld-nav.com/",
+  "logo": "./Logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 70300,
+      "to": 70350
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://vld-nav.com/",
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": ["TranslationFile"]
+}

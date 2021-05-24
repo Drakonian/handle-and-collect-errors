@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Error Log">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2826234959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Error Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2826234959 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Error Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2826234959 - Field 360721728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Callstack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Error Log - Field Error Callstack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2826234959 - Field 2852966117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Error Log - Field Error Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2826234959 - Field 1476062623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Error Log - Field Error Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1370235749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Simulate Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Simulate Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1370235749 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Simulate Transaction - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1370235749 - Field 2374147823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Insert</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EL Simulate Transaction - Field Is Insert - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Log List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Control 1476062623 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Error Text field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Control Error Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Action 4158181642 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Error Callstack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Action ELShowErrorCallstack - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Action 4158181642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Error Callstack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Action ELShowErrorCallstack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Action 1720554091 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Error Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Action ELShowErrorMessage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Action 1720554091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Error Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Action ELShowErrorMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Action 1647597528 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Simulate Errors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Action ELSimulateErrors - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3827822425 - Action 1647597528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Simulate Errors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EL Error Log List - Action ELSimulateErrors - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
